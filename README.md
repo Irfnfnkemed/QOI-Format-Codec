@@ -1,0 +1,1 @@
+# QOI-Format-Codec
